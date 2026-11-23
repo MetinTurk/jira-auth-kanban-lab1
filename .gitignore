@@ -1,8 +1,6 @@
-# Compiled Form Modules
-*.fmx
-
-# Compiled Menu Modules
-*.mmx
-
-# Compiled Pre-Linked Libraries
-*.plx
+node_modules/
+frontend/dist/
+.env
+*.sqlite
+*.sqlite-*
+coverage/
